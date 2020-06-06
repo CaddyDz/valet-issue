@@ -1,5 +1,5 @@
 @verbatim
-<!-- <img src="{{ asset('image.jpg') }}" alt="Image not found"> -->
+<!-- <img src="{{ asset('exurb1a.png') }}" alt="Image not found"> -->
 @endverbatim
 <style>
     * {
